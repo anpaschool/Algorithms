@@ -1,2 +1,12 @@
-# algorithm-lab
-Introduction  Data structure and Algorithm in Python Notebooks
+# Algorithms
+
+- 1. Sorting
+- 2. Search
+- Graph and Tree algorithms
+- AI search Algorithms
+- Networkx tutorials
+
+
+### Project: Smart Drone Network over Pokhara
+
+![img)(pic/nx.png)
