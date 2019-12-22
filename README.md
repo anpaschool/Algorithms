@@ -9,4 +9,4 @@
 
 ### Project: Smart Drone Network over Pokhara
 
-![img)(img/nx.png)
+![img](pic/nx.png)
