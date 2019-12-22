@@ -1,7 +1,7 @@
 # Algorithms
 
-- 1. Sorting
-- 2. Search
+- Sorting
+- Search
 - Graph and Tree algorithms
 - AI search Algorithms
 - Networkx tutorials
@@ -9,4 +9,4 @@
 
 ### Project: Smart Drone Network over Pokhara
 
-![img)(pic/nx.png)
+![img)(img/nx.png)
